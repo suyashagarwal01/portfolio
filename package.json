@@ -1,0 +1,30 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A design portfolio showcasing projects and skills.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production",
+    "test": "jest"
+  },
+  "keywords": [
+    "portfolio",
+    "design",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^3.11.2",
+    "jest": "^27.0.6",
+    "ts-loader": "^9.2.6"
+  }
+}
