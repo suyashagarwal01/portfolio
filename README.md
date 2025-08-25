@@ -1,5 +1,5 @@
 # portfolio
-This is my design portfolio project, built using AI. 
+This is my design portfolio project. 
 
 ## Project Structure
 - **src/**: Contains all the source code for the portfolio.
